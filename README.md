@@ -1,4 +1,4 @@
-# Java: ConcentrationGame
+# Java-ConcentrationGame
 # This is a project from CSC331 course, Object-Oriented Programming.
 # This is a memory game where you match a set of cards by color. 
 # The user has the ability to change and set the number of card pairs that will be used for each game. 
