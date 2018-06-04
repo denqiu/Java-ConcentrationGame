@@ -1,5 +1,6 @@
 # Java-ConcentrationGame
 # This is a project from CSC331 course, Object-Oriented Programming.
+# A GUI (Graphical User Interface) program, using Swing package.
 # This is a memory game where you match a set of cards by color, up to 6 different colors: red, green, blue, orange, yellow, magenta. If there is more than 6 pairs, the game will repeat colors. 
 # The user has the ability to change and set the number of card pairs that will be used per game. 
 # To set the number of card pairs you want, change the number in the main method, located in the GameBoard class, shown by the arrow down below.
